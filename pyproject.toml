@@ -6,6 +6,10 @@ authors = ["jeremy brex <jeremybrex@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Flask = "^2.0.3"
+pytest = "^7.0.1"
+cx-Oracle = "^8.3.0"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 

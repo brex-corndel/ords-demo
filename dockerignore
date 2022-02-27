@@ -1,0 +1,9 @@
+.env
+./env.template
+.venv
+__pycache__
+todo_app/__pycache__
+todo_app/data/__pycache__
+tests/__pycache__
+tests/__pycache__
+tests_e2e/__pycache__
